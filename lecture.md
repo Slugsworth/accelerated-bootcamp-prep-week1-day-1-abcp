@@ -26,7 +26,7 @@ We'll learn much more about each data type later on. For now, we should understa
 Why is this important? Well, different types of data will be treated differently by JavaScript. The type of data that you are manipulating or operating on comes with certain rules that dictate what you can do with that data. In order to see these rules in action, we first have to understand the concept of declaring and assigning variables.
 
 ### Resouces:
-* [Data Structures - Mozilla](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures)
+* [Data Structures - Mozilla](://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structureshttps)
 * [Data Structures - W3 Schools](https://www.w3schools.com/js/js_datatypes.asp)
 
 ## Part II: Declaring and Assigning Variables
